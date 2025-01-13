@@ -1,0 +1,15 @@
+.vscode/
+source/
+*.bat
+Makefile
+build/.doctrees       
+build/doctrees                  
+build/latex           
+build/_sources        
+build/_static         
+build/.buildinfo      
+build/genindex.html   
+build/index.html      
+build/objects.inv     
+build/search.html     
+build/searchindex.js  
